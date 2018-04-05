@@ -9,3 +9,5 @@ Spline activation functions for neural networks is located in [splineOp](./splin
 A spline neural network which performs regression on the California housing dataset is located in [housing](./housing).
 
 Spline networks which investigates the MNIST dataset is located in [mnist](./mnist).
+
+The thesis can be found at [UiOs webpages](https://www.duo.uio.no/handle/10852/61162).
